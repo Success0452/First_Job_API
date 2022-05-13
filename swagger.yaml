@@ -5,7 +5,7 @@ info:
   version: '1.0'
 jsonSchemaDialect: https://json-schema.org/draft/2020-12/schema
 servers:
-- url: https://first-jobs-api.herokuapp.com/
+- url: https://first-jobs-api.herokuapp.com
   variables: {}
 paths:
   /auth/login:
